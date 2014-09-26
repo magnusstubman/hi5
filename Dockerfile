@@ -14,4 +14,4 @@ ADD app/ /
 RUN npm install
 
 CMD ["node", "app.js"]
-EXPOSE 7000
+EXPOSE 49001

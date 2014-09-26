@@ -11,6 +11,6 @@ app.get('/something.json', function (req, res) {
 
 app.use('/', express.static(__dirname + '/clientside'));
 
-app.listen(7000);
+app.listen(49001);
 console.log('App running..');
 
